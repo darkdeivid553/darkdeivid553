@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkdeivid553&show_icons=true&theme=dark&hide_border=true&locale=en" alt="darkdeivid553" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkdeivid553&theme=dark" alt="darkdeivid553" /></p>
+
+![](https://komarev.com/ghpvc/?username=darkdeivid553&color=blueviolet)
