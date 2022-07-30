@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Dark Deivid</h1>
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
 
-<p align="left"> <a href="www.youtube.com/c/DarkDeivid" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCjJx6vlvJKfiuJRuRbm6KeA?label=dark%20Deivid&style=social" alt="rahuldkjain" /></a> </p>
+<p align="left"> <a href="https://www.youtube.com/c/DarkDeivid" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCjJx6vlvJKfiuJRuRbm6KeA?label=dark%20Deivid&style=social" alt="darkdeivid553" /></a> </p>
 
 - 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team)
 
