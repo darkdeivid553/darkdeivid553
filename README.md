@@ -1,8 +1,7 @@
-![](https://twitter.com/CookyDev)
 <h1 align="center">Hello, I'm Dark Deivid</h1>
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
 
-<p align="left"> <a href="https://www.youtube.com/c/DarkDeivid/" target="blank"><img src="https://www.youtube.com/" alt="rahuldkjain" /></a> </p>
+<p align="left"> <a href="https://www.youtube.com/c/DarkDeivid/" target="blank"><img src="[https://www.youtube.com/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)" alt="Dark-Deivid" /></a> </p>
 
 - 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team)
 
