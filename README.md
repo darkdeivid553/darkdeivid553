@@ -2,6 +2,8 @@
 <h1 align="center">Hello, I'm Dark Deivid</h1>
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
 
+<p align="left"> <a href="https://www.youtube.com/c/DarkDeivid/" target="blank"><img src="https://www.youtube.com/" alt="rahuldkjain" /></a> </p>
+
 - 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team)
 
 - 🔰I’m currently learning **Python, and little JavaScript**
