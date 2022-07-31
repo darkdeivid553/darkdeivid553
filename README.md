@@ -28,7 +28,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkdeivid553&show_icons=true&theme=dark&hide_border=true&locale=en" alt="darkdeivid553" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkdeivid553&theme=dark" alt="darkdeivid553" /></p>
-<img width="50%" align="center" alt="Discord Status" 
-     src="[![Discord Presence](https://lanyard.cnrad.dev/api/353104236491309056)](https://discord.com/users/353104236491309056)">
+
+<a href="link" target="_blank">
+	<img width="50%" align="center" alt="Lang Stats" src="https://media.discordapp.net/attachments/815248251212398628/990291516603924500/unknown.png?width=468&height=100">
+</a>
+<a href="https://discord.com/users/353104236491309056" target="_blank">
+	<img width="50%" align="center" alt="Discord Status" src="https://lanyard.cnrad.dev/api/353104236491309056?bg=1f1f1f&borderRadius=5px">
+</a>
 
 ![](https://komarev.com/ghpvc/?username=darkdeivid553&color=blueviolet)
