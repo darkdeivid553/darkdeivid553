@@ -29,6 +29,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkdeivid553&theme=dark" alt="darkdeivid553" /></p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/529240642010873876)](https://discord.com/users/529240642010873876)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/529240642010873876?theme=light&bg=809ecf&hideStatus=true&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/529240642010873876)
 
 ![](https://komarev.com/ghpvc/?username=darkdeivid553&color=blueviolet)
