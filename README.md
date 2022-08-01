@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team)
 
-- 🔰I’m currently learning **Python, and little JavaScript**
+- 🔰I’m currently learning *Lua and HTML**
 
 - 💻Sometimes I like to program and develop **FiveM**
 
 - 📝 Discord [ADC Team](https://discord.gg/CnRNkQkZC5)
 
-- 🧠I would like to learn **C++, C+...**
+- 🧠I would like to learn more of **Lua**
 
 - 📫 My Discord ID **! A DARK DEIVID#6152**
 
