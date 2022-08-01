@@ -3,17 +3,16 @@
 
 <p align="left"> <a href="https://www.youtube.com/c/DarkDeivid" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCjJx6vlvJKfiuJRuRbm6KeA?label=dark%20Deivid&style=social" alt="darkdeivid553" /></a> </p>
 
-- 🔭 I’m currently working on [ADC Team](https://github.com/ADC-Team)
-
-- 🔰I’m currently learning *Lua and HTML**
-
-- 💻Sometimes I like to program and develop **FiveM**
-
-- 📝 Discord [ADC Team](https://discord.gg/CnRNkQkZC5)
-
-- 🧠I would like to learn more of **Lua**
-
 - 📫 My Discord ID **! A DARK DEIVID#6152**
+
+- 👤 Right now I'm learning *Lua and HTML**
+
+- 💻 Sometimes I like to program and develop **FiveM**
+
+- 👑 My current Team [ADC Team](https://github.com/ADC-Team)
+
+- 🧠 I would like to learn more of **Lua**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
