@@ -2,7 +2,9 @@
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
 
 <p align="left"> <a href="https://www.youtube.com/c/DarkDeivid" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCjJx6vlvJKfiuJRuRbm6KeA?label=dark%20Deivid&style=social" alt="darkdeivid553" /></a> </p>
-Hello and welcome to my GitHub profile!
+
+
+👋-> Hello and welcome to my GitHub profile!
 
 🍒 -> I am Dark Deivid, a technology and video game enthusiast. In addition to being a member of the ADC Team, I also have a YouTube channel where I share my experiences in the world of video games and technology.
 
