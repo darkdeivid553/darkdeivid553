@@ -2,16 +2,15 @@
 <h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
 
 <p align="left"> <a href="https://www.youtube.com/c/DarkDeivid" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCjJx6vlvJKfiuJRuRbm6KeA?label=dark%20Deivid&style=social" alt="darkdeivid553" /></a> </p>
+Hello and welcome to my GitHub profile!
 
-- 📫 My Discord ID **! A DARK DEIVID#6152**
+🍒 -> I am Dark Deivid, a technology and video game enthusiast. In addition to being a member of the ADC Team, I also have a YouTube channel where I share my experiences in the world of video games and technology.
 
-- 👤 Right now I'm learning *Lua and HTML**
+📂 -> As for my programming skills, I am fluent in several languages including Lua, CSS, HTML, Python, and JavaScript. I love working on challenging and creative projects that allow me to continue improving my skills.
 
-- 💻 Sometimes I like to program and develop **FiveM**
+💼 -> Furthermore, I enjoy being active in the community and available for any queries or collaborations. You can find me on Discord and connect with me there.
 
-- 👑 My current Team [ADC Team](https://github.com/ADC-Team)
-
-- 🧠 I would like to learn more of **Lua**
+👋-> Thank you for visiting my GitHub profile. I hope you enjoy exploring my projects! And if you have any questions, don't hesitate to contact me!
 
 
 <h3 align="left">Connect with me in:</h3>
