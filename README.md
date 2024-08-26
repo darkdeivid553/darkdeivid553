@@ -1,34 +1,124 @@
-<h1 align="center">Hello, I'm Dark Deivid</h1>
-<h3 align="center">I'm starting in this, so I could say that I'm learning</h3>
+<div align="center">
+  <img height="125" src="https://cdn.discordapp.com/attachments/1261864065836515368/1277734361382391859/b3441a609b57cc2d1f1c7e1a743fc934.png?ex=66ce3e5a&is=66ccecda&hm=08a2b91725ae0ea59b20b524d13f758bf42f9a1b233ab6b09ab712b242b98806&"  />
+</div>
 
-<p align="left"> <a href="https://www.youtube.com/c/DarkDeivid" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCjJx6vlvJKfiuJRuRbm6KeA?label=dark%20Deivid&style=social" alt="darkdeivid553" /></a> </p>
+###
 
+<h6 align="left">- Scripter, configurator, and server creator at fivem. 🛠<br>- Content creator and streamer. 🎥<br>- If you need help on FiveM, write to me here or on my discord server below, you can get it for free or for a fee. 💁<br>- Contact email: adeividcontacto@gmail.com 📥</h6>
 
-👋-> Hello and welcome to my GitHub profile!
+###
 
-🍒 -> I am Dark Deivid, a technology and video game enthusiast. In addition to being a member of the ADC Team, I also have a YouTube channel where I share my experiences in the world of video games and technology.
+<h4 align="center">REDES SOCIALES - SOCIAL MEDIAS</h4>
 
-📂 -> As for my programming skills, I am fluent in several languages including Lua, CSS, HTML, Python, and JavaScript. I love working on challenging and creative projects that allow me to continue improving my skills.
+###
 
-💼 -> Furthermore, I enjoy being active in the community and available for any queries or collaborations. You can find me on Discord and connect with me there.
+<div align="center">
+  <a href="https://www.youtube.com/@DarkDeivid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://twitch.tv/cdeivid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+</div>
 
-👋-> Thank you for visiting my GitHub profile. I hope you enjoy exploring my projects! And if you have any questions, don't hesitate to contact me!
+###
 
+<h4 align="center">APLICACIONES UTILIZADAS ANTIGUA Y RECIENTEMENTE - OLD AND RECENTLY USED APPLICATIONS</h4>
 
-<h3 align="left">Connect with me in:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/DarkDeivid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fran_afp_" height="30" width="40" /></a>
-<a href="https://discord.gg/CnRNkQkZC5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vCGcPjVC" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">My Languages:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkdeivid553&show_icons=true&theme=dark&locale=en&layout=compact" alt="franafp" /></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=au" height="30" alt="adobeaudition logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="30" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="30" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/apache/D22128" height="30" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="30" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/filezilla/BF0000" height="30" alt="filezilla logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firefox/FF7139" height="30" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/google/4285F4" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/heroku/430098" height="30" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" alt="instagram logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="30" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unreal" height="30" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="30" alt="wordpress logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkdeivid553&show_icons=true&theme=dark&hide_border=true&locale=en" alt="darkdeivid553" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkdeivid553&theme=dark" alt="darkdeivid553" /></p>
+<img src="https://raw.githubusercontent.com/darkdeivid/darkdeivid/output/snake.svg" alt="Snake animation" />
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/529240642010873876?theme=light&bg=809ecf&hideStatus=False&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/529240642010873876)
-
-![](https://komarev.com/ghpvc/?username=darkdeivid553&color=blueviolet)
+###
