@@ -119,6 +119,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/darkdeivid/darkdeivid/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/darkdeivid553/darkdeivid553/output/snake.svg" alt="Snake animation" />
 
 ###
