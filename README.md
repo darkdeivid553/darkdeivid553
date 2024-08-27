@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="left">- Scripter, configurator, and server creator at fivem. 🛠<br>- Content creator and streamer. 🎥<br>- If you need help on FiveM, write to me here or on my discord server below, you can get it for free or for a fee. 💁<br>- Contact email: adeividcontacto@gmail.com 📥</h6>
+<h6 align="left">- Developer, configurator, and server creator at fivem. 🛠<br>- Content creator and streamer. 🎥<br>- If you need help on FiveM, write to me here or on my discord server below, you can get it for free or for a fee. 💁<br>- Contact email: adeividcontacto@gmail.com 📥</h6>
 
 ###
 
