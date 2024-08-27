@@ -119,6 +119,7 @@
 
 ###
 
+<div align="center">
   <a href="https://discord.com/users/877299149056380938">
     <img src="https://lanyard.cnrad.dev/api/877299149056380938" />
   </a>
