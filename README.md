@@ -120,6 +120,6 @@
 ###
 
   <a href="https://discord.com/users/877299149056380938">
-    <img src="https://lanyard.cnrad.dev/api/353104236491309056" />
+    <img src="[https://lanyard.cnrad.dev/api/353104236491309056](https://lanyard.cnrad.dev/api/877299149056380938)" />
   </a>
   <br></br>
