@@ -118,3 +118,8 @@
 <img src="https://raw.githubusercontent.com/darkdeivid553/darkdeivid553/output/snake.svg" alt="Snake animation" />
 
 ###
+
+  <a href="https://discord.com/users/353104236491309056">
+    <img src="https://lanyard.cnrad.dev/api/353104236491309056" />
+  </a>
+  <br></br>
